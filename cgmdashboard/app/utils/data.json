@@ -1,0 +1,64 @@
+{
+    "cgm":[
+        {
+            "id": 1,
+            "url":"/cgm.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 1" 
+        },
+        {
+            "id": 2,
+            "url":"/cgm2.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 2" 
+        },
+        {
+            "id": 3,
+            "url":"/cgm3.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 3" 
+        },
+        {
+            "id": 4,
+            "url":"/cgm.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 4" 
+        },
+        {
+            "id": 5,
+            "url":"/cgm2.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 5" 
+        },
+        {
+            "id": 6,
+            "url":"/cgm3.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 6" 
+        },
+        {
+            "id": 7,
+            "url":"/cgm.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 7" 
+        },
+        {
+            "id": 8,
+            "url":"/cgm2.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 8" 
+        },
+        {
+            "id": 9,
+            "url":"/cgm.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 9" 
+        },
+        {
+            "id": 10,
+            "url":"/cgm3.png",
+            "token": "5a8sdf38asdf46asd6",
+            "title": "Sala 10" 
+        }       
+    ]
+}
